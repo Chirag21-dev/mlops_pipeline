@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_pipeline/mlruns/451437398419136564/0259cf33c2f2405eb731a0a98e0313aa/artifacts
+end_time: 1736500996590
+entry_point_name: ''
+experiment_id: '451437398419136564'
+lifecycle_stage: active
+run_id: 0259cf33c2f2405eb731a0a98e0313aa
+run_name: chill-turtle-525
+run_uuid: 0259cf33c2f2405eb731a0a98e0313aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736500996513
+status: 4
+tags: []
+user_id: codespace

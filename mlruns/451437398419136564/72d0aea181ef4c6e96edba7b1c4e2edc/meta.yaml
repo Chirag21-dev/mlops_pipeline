@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_pipeline/mlruns/451437398419136564/72d0aea181ef4c6e96edba7b1c4e2edc/artifacts
+end_time: 1736501128019
+entry_point_name: ''
+experiment_id: '451437398419136564'
+lifecycle_stage: active
+run_id: 72d0aea181ef4c6e96edba7b1c4e2edc
+run_name: intrigued-lark-42
+run_uuid: 72d0aea181ef4c6e96edba7b1c4e2edc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736501030203
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_pipeline/mlruns/451437398419136564/a9aaeaf0f6d7465184683b8bbed52501/artifacts
+end_time: 1736500938197
+entry_point_name: ''
+experiment_id: '451437398419136564'
+lifecycle_stage: active
+run_id: a9aaeaf0f6d7465184683b8bbed52501
+run_name: bemused-asp-260
+run_uuid: a9aaeaf0f6d7465184683b8bbed52501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736500938073
+status: 4
+tags: []
+user_id: codespace
